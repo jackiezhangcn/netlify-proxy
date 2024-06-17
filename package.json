@@ -1,0 +1,13 @@
+{
+  "name": "netlify-proxy",
+  "version": "1.0.0",
+  "description": "A simple proxy for google.com",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
